@@ -1,3 +1,3 @@
-# ContenidoTematico
+# Contenido Tematico en una Asignatura
 
-Recurso (mímimo) REST API en [https://bottlepy.org/](Pyhon Bottle), para salvar el contenido temático de una Asignatura, en una base de datos sqlite3
+Implementación de un REST API en [Pyhon Bottle](https://bottlepy.org/), para salvar el contenido temático de una Asignatura, en una base de datos sqlite3.
